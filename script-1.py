@@ -1,5 +1,8 @@
+#ini merupakan program  revisi yang kedua
+
 apple_price = 2
 # Berikan 10 ke variable money 
+
 money=10
 
 input_count = input('Mau berapa apel?: ')
