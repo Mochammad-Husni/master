@@ -1,0 +1,3 @@
+
+print("ini file pythonku")
+
