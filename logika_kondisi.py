@@ -14,3 +14,7 @@ else:
 	print("sangat baik")
 
 
+while (nilai <60):
+	print("nilai usahakan lebih dari itu")
+	break:
+
