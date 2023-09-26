@@ -1,6 +1,8 @@
+
 print("ini program logika kondisi")
 
-nilai=91
+nilai=input("masukkan nilai:")
+
 
 if (nilai<70):
 	print("Kurang")
@@ -10,4 +12,5 @@ elif (nilai>80 and nilai<90):
 	print("baik")
 else:
 	print("sangat baik")
+
 
